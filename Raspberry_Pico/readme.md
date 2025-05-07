@@ -1,5 +1,5 @@
 
-### A Rust Embedded-HAL implementation for the rp2040 microcontroller
+### A Rust Embedded-HAL implementation for the rp2040 microcontroller:
 
 https://crates.io/crates/rp2040-hal
 
